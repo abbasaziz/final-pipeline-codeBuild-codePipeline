@@ -6,7 +6,7 @@ Description: EKSWSV1
 Parameters:
   EksClusterName:
     Type: String
-    Description: TODO - The name of the EKS cluster created
+    Description: TODO - The name of the EKS cluster you have created
     Default: eksctl-demo
     MinLength: 1
     MaxLength: 100
