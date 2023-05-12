@@ -1,7 +1,7 @@
 # Purpose of This Repo
 
 This repos has a sample "Hello World" flask application that we will deploy on EKS cluster using the AWS Codebuild and Codepipeline services.
-Here is the purpose of each file present in this repo:
+Here is the purpose of each file present in this repository:
 
 ```bash
 
